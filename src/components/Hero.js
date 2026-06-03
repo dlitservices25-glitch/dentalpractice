@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="flex flex-col justify-center">
 
           <span className="text-sky-600 font-medium">
-            Trusted Family Dentistry
+            Trusted Family Dentistrys
           </span>
 
           <h1 className="text-5xl md:text-7xl font-bold mt-4">
